@@ -1,0 +1,29 @@
+Field,Label,Value
+id,Dataset ID,caaa78df-d578-4824-9d5c-84dc31c72fd1
+title,Title of Dataset,"EM-DAT - Country Profiles, Paraguay"
+name,Dataset URL,emdat-country-profiles-pry
+notes,Description,"Aggregated figures for natural hazard related events in EM-DAT: Paraguay Documentation on the Country Profiles available here How to cite the EM-DAT Project here Main dataset on HDX: EM-DAT - Country Profiles More on the EM-DAT database :  website / data portal Each line corresponds to a given combination of year, country, disaster subtype and reports figures for :  number of disasters total number of people affected total number of deaths economic losses (original value and adjusted)"
+dataset_source,Source,Centre for Research on the Epidemiology of Disasters
+organization,Contributor,Centre for Research on the Epidemiology of Disasters
+dataset_date,Reference Period,[2000-01-01T00:00:00 TO 2023-12-31T23:59:59]
+last_modified,Updated,2025-07-16T08:56:42.754049
+data_update_frequency,Expected Update Frequency,As needed
+groups,Location,Paraguay
+license_title,License,Other
+methodology,Methodology,Registry
+methodology_other,Define Methodology,
+caveats,Caveats/Comments,
+tags,Tags,"affected population, economics, fatalities, hxl, natural disasters"
+resource_1_created,Created,2025-06-17T11:07:47.439552
+resource_1_description,Description,Version: 2025-07-16
+resource_1_format,File Format,XLSX
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/caaa78df-d578-4824-9d5c-84dc31c72fd1/resource/81d382d4-466c-45a5-b8ea-4996e64ddec6/download/emdat-country-profiles_pry_2025_07_16.xlsx
+resource_1_id,Resource ID,81d382d4-466c-45a5-b8ea-4996e64ddec6
+resource_1_last_modified,Updated,2025-07-16T08:56:42.754049
+resource_1_metadata_modified,Metadata Updated,2025-07-16T08:56:45.833745
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,caaa78df-d578-4824-9d5c-84dc31c72fd1
+resource_1_resource_type,Resource Type,
+resource_1_name,Resource Name,EMDAT-country-profiles_PRY_2025_07_16.xlsx
+resource_1_mimetype,MIME Type,
+resource_1_size,Size,8.6K
