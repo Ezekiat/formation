@@ -1,0 +1,440 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.3607946266,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.3734224386,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.3931213754,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.4378101264,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.5291276035,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.5539473055,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.6089403498,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.6612684602,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.7059214528,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.7861914402,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.9040179203,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,1.1318765822,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,1.4555995447,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,1.7700535098,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,1.9513240714,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,2.1887008770,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,3.0452963713,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,3.7466929913,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,4.5395207445,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,5.0830939004,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,5.6626119958,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,6.4442962154,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,7.2489608892,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,8.1247454875,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,11.5089576470,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,16.7021970644,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,19.6817077610,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,21.1173178613,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,22.9007117104,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,25.1435899378,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,26.9407075225,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,28.9064012313,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,33.3134697311,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,34.2337354524,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,39.1304986339,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,46.2926062200,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,51.6034972374,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,56.5657569660,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,60.8004393860,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,65.0133985548,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,71.6568193616,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,79.0992307161,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,83.4229329860,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,87.9714036030,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,93.8934368728,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,108.9600807268,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,114.3661784520,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,123.8562762921,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,131.9342948965,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,137.6221738348,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,146.2505308369,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,160.3286907910,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,172.2974670972,X
+MDG,2024-01-01,2024-12-31,129,'450,Madagascar,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2024,2024,SLC,182.1986221098,E
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1970,1970,USD,19.0557766801,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1971,1971,USD,19.7638547098,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1972,1972,USD,22.8790239954,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1973,1973,USD,28.8108317505,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1974,1974,USD,32.2429591199,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1975,1975,USD,37.9122122250,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1976,1976,USD,37.3788387878,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1977,1977,USD,39.4791274940,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1978,1978,USD,45.8847901635,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1979,1979,USD,54.2095267654,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1980,1980,USD,62.7593665518,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1981,1981,USD,61.0967558812,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1982,1982,USD,61.0462667471,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1983,1983,USD,60.3145170608,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1984,1984,USD,49.6340923924,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1985,1985,USD,48.4587949163,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1986,1986,USD,66.0421627856,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1987,1987,USD,51.3973908192,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1988,1988,USD,47.3195183027,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1989,1989,USD,46.4979093851,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1990,1990,USD,55.5879815844,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1991,1991,USD,51.5005139326,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1992,1992,USD,57.0420264398,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1993,1993,USD,62.2693764674,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1994,1994,USD,55.0341159231,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1995,1995,USD,57.4311592069,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1996,1996,USD,71.0820929974,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1997,1997,USD,60.8418946642,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1998,1998,USD,61.7299309170,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",1999,1999,USD,58.6899838175,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2000,2000,USD,58.3901099755,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2001,2001,USD,64.3524656421,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2002,2002,USD,71.5207646627,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2003,2003,USD,81.0972337402,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2004,2004,USD,61.4223520819,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2005,2005,USD,67.7973013918,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2006,2006,USD,70.6619854385,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2007,2007,USD,88.5523163786,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2008,2008,USD,104.4027398086,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2009,2009,USD,97.4934964353,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2010,2010,USD,100.5793807207,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2011,2011,USD,114.5801428637,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2012,2012,USD,111.4922940844,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2013,2013,USD,116.9346998004,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2014,2014,USD,114.0615573934,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2016,2016,USD,100.6237568757,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2017,2017,USD,107.6644077201,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2018,2018,USD,108.9536465878,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2019,2019,USD,106.9640481702,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2020,2020,USD,106.5844792442,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2021,2021,USD,112.0181807421,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2022,2022,USD,114.8223168997,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2023,2023,USD,114.1047560280,X
+MDG,2024-01-01,2024-12-31,129,'450,Madagascar,22024,GDP Deflator,6179,"Value US$, 2015 prices",2024,2024,USD,118.2074395491,E
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.3699277851,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.3828510265,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.3960526287,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.4282316208,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.4793962113,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.4978283491,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.6329875434,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.7160660021,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.9074186784,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,1.0748576107,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,1.2210624452,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,1.5368719935,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,1.7571569792,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,2.1383955060,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,2.3527881709,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,2.5721697706,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,3.0062565981,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,3.5874195873,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,4.4171447114,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,4.9488997901,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,5.6323923705,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,6.6721016346,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,7.4039440383,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,7.9601118199,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,12.5251355995,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,18.2549735683,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,20.7859651653,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,23.6609929107,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,25.7822437433,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,29.2891419572,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,32.1258014043,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,32.9083176668,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,39.6415192114,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,36.3634989193,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,49.3682412096,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,58.7779484910,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,65.7047436073,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,74.1428277645,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,75.1672443511,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,87.3116148434,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,81.8337377053,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,86.9418030122,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,86.7580572826,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,85.9371718431,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,88.6963393266,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,101.7450383924,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,108.0244049168,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,126.4817042471,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,126.0459133285,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,125.0979285394,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,152.8723974506,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,157.2142414587,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,154.9269114527,X
+MDG,2024-01-01,2024-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2024,2024,SLC,162.4302707958,E
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1970,1970,USD,19.5381547847,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1971,1971,USD,20.2628746477,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1972,1972,USD,23.0496181618,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1973,1973,USD,28.1805020795,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1974,1974,USD,29.2125232947,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1975,1975,USD,34.0714249080,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1976,1976,USD,38.8549376771,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1977,1977,USD,42.7506567944,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1978,1978,USD,58.9820800644,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1979,1979,USD,74.1136565943,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1980,1980,USD,84.7694540780,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1981,1981,USD,82.9577133130,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1982,1982,USD,73.6932586028,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1983,1983,USD,72.8657588688,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1984,1984,USD,59.8457771147,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1985,1985,USD,56.9489639782,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1986,1986,USD,65.1955223465,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1987,1987,USD,49.2124673648,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1988,1988,USD,46.0438825547,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1989,1989,USD,45.2703606319,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1990,1990,USD,55.2913255576,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1991,1991,USD,53.3210534880,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1992,1992,USD,58.2615878394,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1993,1993,USD,61.0075971481,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1994,1994,USD,59.8933270660,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1995,1995,USD,62.7704420731,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1996,1996,USD,75.0702086862,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1997,1997,USD,68.1705720289,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1998,1998,USD,69.4972342034,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1999,1999,USD,68.3665010345,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2000,2000,USD,69.6280554430,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2001,2001,USD,73.2616753309,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2002,2002,USD,85.1064686229,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2003,2003,USD,86.1424887615,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2004,2004,USD,77.4923294899,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2005,2005,USD,86.0825651098,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2006,2006,USD,89.9711818885,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2007,2007,USD,116.0687930925,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2008,2008,USD,129.0725253529,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2009,2009,USD,130.9316971535,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2010,2010,USD,114.8639687582,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2011,2011,USD,125.9405953735,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2012,2012,USD,115.9495895255,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2013,2013,USD,114.2307270271,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2014,2014,USD,107.7481337954,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2016,2016,USD,93.9607233972,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2017,2017,USD,101.6942572716,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2018,2018,USD,111.2631779100,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2019,2019,USD,102.1901178575,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2020,2020,USD,96.8848056702,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2021,2021,USD,117.0900902042,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2022,2022,USD,112.5918471912,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2023,2023,USD,102.6010290883,X
+MDG,2024-01-01,2024-12-31,129,'450,Madagascar,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2024,2024,USD,105.3820615859,E
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.3978676658,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.4308879755,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.4574414339,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.5216487174,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.7536484690,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.7986861425,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.9109500549,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.9683358524,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,1.0468439566,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,1.1066345417,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,1.2657577976,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,1.6680655080,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,2.0951977208,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,2.6223323067,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,2.8103468054,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,3.1024811354,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,3.6986836233,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,4.2829608105,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,4.9395872799,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,5.5219896150,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,6.1155716431,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,6.7619886282,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,7.6136778247,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,8.7177332310,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,14.3409735207,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,17.3062648123,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,19.7527416231,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,21.2352480733,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,22.5766005936,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,24.4914023993,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,26.2220419781,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,27.8718378634,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,32.9562491235,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,32.9364149912,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,37.6003941895,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,44.5332935639,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,49.9383232465,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,54.5913647780,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,59.0031960079,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,64.6835534461,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,70.0861468792,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,77.0644583573,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,79.0566232540,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,84.9747658335,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,90.0050209505,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,109.1578215252,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,114.8318926978,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,124.8757403810,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,125.5469420098,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,132.6290246322,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,138.0204630217,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,147.8147689445,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,163.4945140303,X
+MDG,2024-01-01,2024-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2024,2024,SLC,173.6955456610,E
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1970,1970,USD,21.0138312165,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1971,1971,USD,22.8052909092,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1972,1972,USD,26.6223466805,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1973,1973,USD,34.3279712459,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1974,1974,USD,45.9243793324,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1975,1975,USD,54.6621641301,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1976,1976,USD,55.9172261380,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1977,1977,USD,57.8117011140,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1978,1978,USD,68.0447025514,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1979,1979,USD,76.3047417480,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1980,1980,USD,87.8723262053,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1981,1981,USD,90.0393141276,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1982,1982,USD,87.8703208029,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1983,1983,USD,89.3558899669,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1984,1984,USD,71.4842885597,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1985,1985,USD,68.6902895932,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1986,1986,USD,80.2119190248,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1987,1987,USD,58.7539494559,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1988,1988,USD,51.4897725671,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1989,1989,USD,50.5127345229,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1990,1990,USD,60.0345360277,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1991,1991,USD,54.0393982401,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1992,1992,USD,59.9119816506,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1993,1993,USD,66.8141313888,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1994,1994,USD,68.5763927020,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1995,1995,USD,59.5082698332,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1996,1996,USD,71.3386375844,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1997,1997,USD,61.1816678106,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1998,1998,USD,60.8562743643,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1999,1999,USD,57.1676524329,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2000,2000,USD,56.8325057390,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2001,2001,USD,62.0492836219,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2002,2002,USD,70.7538469200,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2003,2003,USD,78.0239757598,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2004,2004,USD,59.0205780901,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2005,2005,USD,65.2207203754,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2006,2006,USD,68.3818202057,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2007,2007,USD,85.4614534419,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2008,2008,USD,101.3166250590,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2009,2009,USD,96.9988637344,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2010,2010,USD,98.3747438558,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2011,2011,USD,111.6326488685,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2012,2012,USD,105.6568496654,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2013,2013,USD,112.9514629344,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2014,2014,USD,109.3379175878,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2016,2016,USD,100.8063689102,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2017,2017,USD,108.1028314666,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2018,2018,USD,109.8504467612,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2019,2019,USD,101.7855832199,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2020,2020,USD,102.7174264815,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2021,2021,USD,105.7144961075,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2022,2022,USD,105.8602434690,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2023,2023,USD,108.2749616094,X
+MDG,2024-01-01,2024-12-31,129,'450,Madagascar,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2024,2024,USD,112.6907847925,E
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.3591449288,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.3650812247,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.3817739563,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.4485586113,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.4660500188,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.4933000494,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.5860139245,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.6712505251,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.6709759991,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.7278262037,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.8116690708,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,1.0613303807,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,1.4790275197,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,1.8044865549,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,1.8278010205,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,2.0780291902,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,2.2725379613,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,2.7917061189,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,3.3565467442,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,4.4478526841,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,4.9777391931,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,5.4205804613,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,6.0148622939,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,6.7926641752,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,9.6492844181,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,13.6477159072,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,16.1001297299,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,17.1896772279,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,18.4250596346,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,19.9411535259,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,21.7921419613,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,23.7130396837,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,30.2988288648,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,31.3086031752,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,36.3587932597,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,43.2090245164,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,49.6822840080,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,52.4170699153,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,59.9987493885,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,63.4158244808,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,70.1133988912,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,76.1435401946,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,80.3914285701,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,88.2706234182,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,99.4801872245,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,128.5681076341,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,121.2354824672,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,131.7818477926,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,150.8880365358,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,160.2398732416,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,183.1325691924,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,212.7918499971,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,244.0880959479,X
+MDG,1970-01-01,1970-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1970,1970,USD,18.9686460229,X
+MDG,1971-01-01,1971-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1971,1971,USD,19.3223854203,X
+MDG,1972-01-01,1972-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1972,1972,USD,22.2186226775,X
+MDG,1973-01-01,1973-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1973,1973,USD,29.5181538776,X
+MDG,1974-01-01,1974-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1974,1974,USD,28.3992587143,X
+MDG,1975-01-01,1975-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1975,1975,USD,33.7615075945,X
+MDG,1976-01-01,1976-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1976,1976,USD,35.9715364841,X
+MDG,1977-01-01,1977-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1977,1977,USD,40.0750779134,X
+MDG,1978-01-01,1978-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1978,1978,USD,43.6133408296,X
+MDG,1979-01-01,1979-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1979,1979,USD,50.1851229311,X
+MDG,1980-01-01,1980-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1980,1980,USD,56.3482599100,X
+MDG,1981-01-01,1981-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1981,1981,USD,57.2887929673,X
+MDG,1982-01-01,1982-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1982,1982,USD,62.0288106159,X
+MDG,1983-01-01,1983-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1983,1983,USD,61.4878219804,X
+MDG,1984-01-01,1984-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1984,1984,USD,46.4921465668,X
+MDG,1985-01-01,1985-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1985,1985,USD,46.0084753548,X
+MDG,1986-01-01,1986-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1986,1986,USD,49.2836504823,X
+MDG,1987-01-01,1987-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1987,1987,USD,38.2968155595,X
+MDG,1988-01-01,1988-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1988,1988,USD,34.9883135324,X
+MDG,1989-01-01,1989-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1989,1989,USD,40.6870018762,X
+MDG,1990-01-01,1990-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1990,1990,USD,48.8648127049,X
+MDG,1991-01-01,1991-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1991,1991,USD,43.3193432211,X
+MDG,1992-01-01,1992-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1992,1992,USD,47.3309125604,X
+MDG,1993-01-01,1993-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1993,1993,USD,52.0600877150,X
+MDG,1994-01-01,1994-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1994,1994,USD,46.1414363950,X
+MDG,1995-01-01,1995-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1995,1995,USD,46.9282060353,X
+MDG,1996-01-01,1996-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1996,1996,USD,58.1469317922,X
+MDG,1997-01-01,1997-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1997,1997,USD,49.5258222697,X
+MDG,1998-01-01,1998-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1998,1998,USD,49.6656030943,X
+MDG,1999-01-01,1999-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1999,1999,USD,46.5464947777,X
+MDG,2000-01-01,2000-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2000,2000,USD,47.2313343909,X
+MDG,2001-01-01,2001-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2001,2001,USD,52.7908181756,X
+MDG,2002-01-01,2002-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2002,2002,USD,65.0486252644,X
+MDG,2003-01-01,2003-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2003,2003,USD,74.1678077554,X
+MDG,2004-01-01,2004-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2004,2004,USD,57.0716622286,X
+MDG,2005-01-01,2005-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2005,2005,USD,63.2812774477,X
+MDG,2006-01-01,2006-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2006,2006,USD,68.0312191435,X
+MDG,2007-01-01,2007-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2007,2007,USD,82.0576477314,X
+MDG,2008-01-01,2008-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2008,2008,USD,103.0261275167,X
+MDG,2009-01-01,2009-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2009,2009,USD,95.0977890003,X
+MDG,2010-01-01,2010-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2010,2010,USD,98.4129954907,X
+MDG,2011-01-01,2011-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2011,2011,USD,110.2986417778,X
+MDG,2012-01-01,2012-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2012,2012,USD,107.4407776757,X
+MDG,2013-01-01,2013-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2013,2013,USD,117.3324333573,X
+MDG,2014-01-01,2014-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2014,2014,USD,120.8483304321,X
+MDG,2015-01-01,2015-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+MDG,2016-01-01,2016-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2016,2016,USD,118.7316117815,X
+MDG,2017-01-01,2017-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2017,2017,USD,114.1311757651,X
+MDG,2018-01-01,2018-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2018,2018,USD,115.9255978052,X
+MDG,2019-01-01,2019-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2019,2019,USD,122.3305526510,X
+MDG,2020-01-01,2020-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2020,2020,USD,124.1012474060,X
+MDG,2021-01-01,2021-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2021,2021,USD,140.2673694117,X
+MDG,2022-01-01,2022-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2022,2022,USD,152.3947654876,X
+MDG,2023-01-01,2023-12-31,129,'450,Madagascar,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2023,2023,USD,161.6484160023,X
